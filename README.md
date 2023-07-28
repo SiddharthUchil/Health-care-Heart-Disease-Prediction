@@ -1,18 +1,4 @@
-<h1 align="center">💕💔 Heart Disease EDA & Prediction 🔮</h1>
-<p align="center">w/ <b>Logistic Regression</b> using <b>SAS Studio</b> 🖥</b></p><br>
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://www.github.com/caesarmario">
-    <img src="https://img.shields.io/github/followers/caesarmario?style=social&link=https://www.github.com/caesarmario" alt"GitHub"/>
-  </a>
-  <a href="https://linktr.ee/caesarmario_">
-    <img src="https://img.shields.io/badge/Follow%20My%20Other%20Works-019875?style=flat&labelColor=019875&link=https:/linktr.ee/caesarmario_" alt="Linktree"/>
-  </a>
-  <a href="https://www.kaggle.com/code/caesarmario/listen-to-your-heart-a-disease-prediction">
-    <img src="https://img.shields.io/badge/-Similar%20Works%20on%20Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/code/caesarmario/listen-to-your-heart-a-disease-prediction" alt="Similar Works"/>
-  </a>
-</p>
-<br>
+<h1 align="center">💕💔 Heart Disease Prediction using SAS Studio🔮</h1>
 
 ## 📃 Table of Contents:
   - [About Project](#-about-project)
@@ -274,16 +260,8 @@
 
 ## 📥 Output Delivery System:
 - Output Delivery System (ODS) is used to present the output data from SAS program in the form of a nicely presented report which would hep the user to be able to understand the output of their analysis much easier. For this case, the prediction exported as PDF file (`.pdf`)
-- **The prediction report can be seen** <b><i><u><a href="https://github.com/caesarmario/heart-disease-prediction-with-logistic-regression-SAS-studio/blob/main/Heart_Disease_Prediction_Report_caesarmario.pdf">here</a></u></i></b>.
+- **The prediction report can be seen** <b><i><u><a href="https://github.com/SiddharthUchil/Health-care-Heart-Disease-Prediction/blob/main/Heart_Disease_Prediction_Report_caesarmario.pdf">here</a></u></i></b>.
 > Each step for creating output (ODS) file are available on part no. 5 in `main.sas` file.
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-table-of-contents)
 <br>
-
-## 🙌 Support me!
-
-👉 If you find this project useful, **please ⭐ this repository 😆**!
-### 🎈 Check out my work on Kaggle [here](https://www.kaggle.com/code/caesarmario/listen-to-your-heart-a-disease-prediction) using **various machine learning models**!
----
-
-👉 _More about myself: <a href="https://linktr.ee/caesarmario_"> here </a>_
